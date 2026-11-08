@@ -177,7 +177,7 @@
     <string name="download_category_game">Game</string>
     <string name="download_category_modpack">Modpack</string>
     <string name="download_category_mod">Mod</string>
-    <string name="download_category_resource_pack">Resource Pack</string>
+    <string name="download_category_resource_pack">Texture Pack</string>
     <string name="download_category_saves">Saves</string>
     <string name="download_category_shaders">Shader Pack</string>
     <string name="download_category_by_id">Search by ID</string>
@@ -412,20 +412,20 @@
     <string name="game_button_log_output">Log Output</string>
     <string name="game_button_mouse_left">Left Click</string>
     <string name="game_button_mouse_right">Right Click</string>
-    <string name="game_dialog_force_close_message">Are you sure you want to force close and return to the main screen?</string>
+    <string name="game_dialog_force_close_message">Please Mat jao 😭</string>
     <string name="game_loading">The game is running. Waiting for the game screen to appear…</string>
     <string name="game_loading_version_name">Game Version: %s</string>
     <string name="game_loading_version_info">Game Info: %s</string>
     <string name="game_menu_title">Game Menu</string>
     <string name="game_menu_option_force_close_text">Forcing the currently running game to close may cause save data corruption or prevent settings from being saved. Avoid this action unless necessary.</string>
-    <string name="game_menu_option_switch_log">Log Output</string>
+    <string name="game_menu_option_switch_log">Logs</string>
     <string name="game_menu_option_input_method">Switch Input Method</string>
     <string name="game_menu_option_auto_show_ime">Auto-show Input Method (SDL)</string>
     <string name="game_menu_option_switch_fps">FPS Display</string>
     <string name="game_menu_option_switch_memory">Memory Display</string>
     <string name="game_menu_option_menu_ball_opacity">Menu Overlay Opacity</string>
     <string name="game_menu_option_send_keycode">Send Keycode</string>
-    <string name="game_menu_option_replacement_control">Replace Control Layout</string>
+    <string name="game_menu_option_replacement_control">Select Controls</string>
     <string name="game_menu_option_hotbar_rule">Hotbar Positioning Rule</string>
     <string name="game_menu_option_hotbar_rule_auto">Adaptive (May Be Inaccurate)</string>
     <string name="game_menu_option_hotbar_rule_custom">Custom</string>
@@ -464,7 +464,7 @@
     <string name="plugin_download_title">Download Plugin</string>
     <string name="plugin_download_summary">Download the plugin and install it as an app. Just reopen the launcher and it will load automatically!</string>
     <!-- Accounts -->
-    <string name="account_no_account">No accounts available</string>
+    <string name="account_no_account">Create Account</string>
     <string name="account_login">Login</string>
     <string name="account_logging_in">Logging in as %s</string>
     <string name="account_logging_in_failed">Login Failed</string>
@@ -518,7 +518,7 @@
     <string name="account_change_cape_apply_success">Successfully changed your cape to: %s</string>
     <string name="account_change_cape_apply_reset">Successfully reset your cape</string>
     <string name="account_change_cape_apply_failed">(%d) Failed to change cape</string>
-    <string name="account_supporting_username_invalid_title">Invalid Username</string>
+    <string name="account_supporting_username_invalid_title">Haggu Username</string>
     <string name="account_supporting_username_invalid_local_message_hint1">Valid usernames only support letters (case-insensitive), numbers, and underscores, with length between 3 and 16 characters.</string>
     <string name="account_supporting_username_invalid_local_message_hint2">Otherwise, the game may not run properly.</string>
     <string name="account_supporting_username_invalid_local_message_hint3">Valid usernames: Name, Name_, Name123</string>
@@ -531,7 +531,7 @@
     <string name="account_supporting_username_invalid_empty">Username required</string>
     <string name="account_supporting_email_invalid_empty">Email required</string>
     <string name="account_supporting_password_invalid_empty">Password required</string>
-    <string name="account_supporting_microsoft_tip_title">Add Microsoft Account</string>
+    <string name="account_supporting_microsoft_tip_title">Add Minecraft Account</string>
     <string name="account_supporting_microsoft_tip_link_text">Shortcuts you might need:</string>
     <string name="account_supporting_microsoft_tip_link_purchase">Buy Minecraft</string>
     <string name="account_supporting_microsoft_tip_link_make_gameid">Create Profile / Edit Profile Name</string>
